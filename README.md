@@ -14,8 +14,8 @@ I'm an aspiring **PHP Developer** and web enthusiast, currently learning full-st
 - [Login System with PHP & MySQL](https://github.com/ajnas-dev/php-login)
 
 ## 📫 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/muhammad-ajnas-k-a-574832274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email:muhammedajnas353@gmail.com
 
 ---
 
