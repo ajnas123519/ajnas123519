@@ -1,6 +1,6 @@
 # Hi, I'm Ajnas! 👋
 
-I'm an aspiring **PHP Developer** and web enthusiast, currently learning full-stack development.
+I'm an aspiring **PHP Developer** and web enthusiast, fully course completed in php full-stack development.
 
 ## 🚀 Skills:
 - PHP, MySQL
